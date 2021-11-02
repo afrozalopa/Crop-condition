@@ -1,11 +1,10 @@
 ### Crop-condition
 Several factors such as availability of water, soil fertility, protecting crops from rodents, timely use of pesticides & other useful chemicals and nature have remarkable 
-impact on crop production. While a lot of these factors are difficult to control for, the amount and frequency of pesticides is something the farmer can control.
-Pesticides protect the crop with the right dosage. But, if farmer add more than required, they may spoil the entire harvest. 
-A high level of pesticide can deem the crop dead / unsuitable for consumption among many outcomes. 
+impact on crop production. These factors are difficult to control for. On the other hand, the amount and frequency of pesticides is something the farmer can control.
+Pesticides protect the crop with the right dose. But, if farmer add more than required, they may spoil the entire harvest. A high level of pesticide can deem the crop damage or make the crop unsuitable for consumption. 
 
 ##### Data Description
-This data is based on crops harvested by various farmers at the end of harvest season
+This data is based on crops harvested by various farmers at the end of harvest season.
 
 This dataset is consists of following features: 
 
